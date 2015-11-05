@@ -1,0 +1,15 @@
+# for executing the example from command line run command below
+bundle install          # for installing the required dependencies
+bundle exec rake -T     # for listing the available rake tasks in this project
+bundle exec rake <task_name>
+
+# nice video of this library example
+http://code.tutsplus.com/tutorials/ruby-for-newbies-testing-with-rspec--net-21297
+
+# rspec expectations
+https://github.com/rspec/rspec-expectations
+
+# rbenv, an alternative to RVM
+
+# directory structure
+https://www.relishapp.com/rspec/rspec-rails/docs/directory-structure
