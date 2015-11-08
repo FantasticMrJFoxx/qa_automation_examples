@@ -3,7 +3,7 @@
 require 'rubygems'
 require 'fileutils'
 require 'yaml'
-require_relative '../props'
+require_relative '../props'     if File.exists? File.join('props.rb')
 
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # setting up the global configuration
