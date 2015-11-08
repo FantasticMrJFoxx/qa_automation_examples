@@ -1,4 +1,4 @@
-require_relative 'spec_helper'
+require_relative '../../spec/spec_helper'
 
 describe 'Library Object' do
   before(:all) do
